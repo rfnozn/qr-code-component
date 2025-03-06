@@ -6,4 +6,3 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ### Screenshot
 ![](./assets/screenshots/screenshot.png)
-# qr-code-component
